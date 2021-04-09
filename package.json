@@ -1,12 +1,52 @@
-{
-    "name": "My Beautiful Project",
-    "author": "Gaurab Sapkota",
+
+          "name": "My_Beautiful_Project",
+      
+      
+        
+    "author": "Rui Coelho",
+      
+      
+        
     "version": "0.0.1",
+      
+      
+        
     "description": "My beautiful static page project",
+      
+      
+        
     "scripts": {
-         "start":"serve",
-    }
+      
+      
+        
+        "start": "serve",
+      
+      
+        
+        "dev": "reload"
+      
+      
+        
+    },
+      
+      
+        
     "dependencies": {
-         "serve":"^11.3.2"
+      
+      
+        
+        "reload": "^3.1.1",
+      
+      
+        
+        "serve": "^11.3.2"
+      
+      
+        
     }
-}
+      
+      
+        
+}{
+      
+        
